@@ -25,4 +25,4 @@ https://velog.io/@dappfer_eth/Daily-Research-2022-04-17OS-Timezone-Trend-researc
 </br> Daily Research (2022-04-17)
 
 https://velog.io/@dappfer_eth/%EA%B0%84%EB%8B%A8%ED%9E%88-%EC%82%B4%ED%8E%B4%EB%B3%B4%EB%8A%94-NFT-project-%ED%9B%84%EB%B0%9C%EC%A3%BC%EC%9E%90%EC%97%90%EC%84%9C-%EC%84%A0%EA%B5%AC%EC%9E%90%EB%A1%9C-Bored-Ape-Yacht-ClubBAYC
-</br> Bored Ape Yacht Club (BAYC) from latecomer to pioneer 
+</br> Bored Ape Yacht Club (BAYC) from latecomer to pioneer(20220-04-17)
