@@ -19,3 +19,7 @@ https://velog.io/@dappfer_eth/Daily-Research-2022-04-15OS-Timezone-Trend-researc
 2022-04-16
 https://velog.io/@dappfer_eth/Daily-Research-2022-04-16OS-Timezone-Trend-research
 </br> Daily Research (2022-04-16)
+
+2022-04-17
+https://velog.io/@dappfer_eth/Daily-Research-2022-04-17OS-Timezone-Trend-research
+</br> Daily Research (2022-04-17)
