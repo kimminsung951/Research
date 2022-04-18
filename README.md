@@ -29,3 +29,7 @@ https://velog.io/@dappfer_eth/%EA%B0%84%EB%8B%A8%ED%9E%88-%EC%82%B4%ED%8E%B4%EB%
 
 https://velog.io/@dappfer_eth/PASS%EA%B6%8C-%EA%B4%80%EB%A0%A8-%EB%A9%94%ED%83%80%EC%97%90-%EA%B4%80%ED%95%9C-%EA%B3%A0%EC%B0%B0
 </br> NFT TALK TALK TALK - Thinking about VIP PASS Meta (2022-04-17)
+
+2022-04-18
+https://velog.io/@dappfer_eth/Daily-Research-2022-04-18OS-Timezone-Trend-research
+</br> Daily Research (2022-04-18)
