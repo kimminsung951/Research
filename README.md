@@ -33,3 +33,7 @@ https://velog.io/@dappfer_eth/PASS%EA%B6%8C-%EA%B4%80%EB%A0%A8-%EB%A9%94%ED%83%8
 2022-04-18
 https://velog.io/@dappfer_eth/Daily-Research-2022-04-18OS-Timezone-Trend-research
 </br> Daily Research (2022-04-18)
+
+2022-04-19
+https://velog.io/@dappfer_eth/Daily-Research-2022-04-19OS-Timezone-Trend-research
+</br> Daily Research (2022-04-19)
