@@ -46,6 +46,6 @@ https://velog.io/@dappfer_eth/Daily-Research-2022-04-20OS-Timezone-Trend-researc
 https://velog.io/@dappfer_eth/Daily-Research-2022-04-21OS-Timezone-Trend-research
 </br> Daily Research (2022-04-21)
 
-2022-04-22
+2022-04-22 => 기록을 늦게 함.
 https://velog.io/@dappfer_eth/Daily-Research-2022-04-22OS-Timezone-Trend-research
 </br> Daily Research (2022-04-22)
