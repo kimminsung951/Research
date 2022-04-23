@@ -49,3 +49,7 @@ https://velog.io/@dappfer_eth/Daily-Research-2022-04-21OS-Timezone-Trend-researc
 2022-04-22 => 기록을 늦게 함.
 https://velog.io/@dappfer_eth/Daily-Research-2022-04-22OS-Timezone-Trend-research
 </br> Daily Research (2022-04-22)
+
+2022-04-23
+https://velog.io/@dappfer_eth/Daily-Research-2022-04-23OS-Timezone-Trend-research
+</br> Daily Research (2022-04-23)
