@@ -70,6 +70,11 @@ https://velog.io/@dappfer_eth/Daily-Research-2022-04-26OS-Timezone-Trend-researc
 https://velog.io/@dappfer_eth/Daily-Research-2022-04-27OS-Timezone-Trend-research
 </br> Daily Research (2022-04-27)
 
-2022-04-27
+2022-04-28
 https://velog.io/@dappfer_eth/Daily-Research-2022-04-28OS-Timezone-Trend-research
 </br> Daily Research (2022-04-28)
+
+2022-04-29
+https://velog.io/@dappfer_eth/Daily-Research-2022-04-28OS-Timezone-Trend-research-etp2ole5
+</br> Daily Research (2022-04-29)
+
