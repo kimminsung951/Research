@@ -101,3 +101,7 @@ https://velog.io/@dappfer_eth/2022-05-04OS-Timezone-Trend-research
 2022-05-05
 https://velog.io/@dappfer_eth/2022-05-05OS-Timezone-Trend-research
 </br> Daily Research (2022-05-05)
+
+2022-05-06
+https://velog.io/@dappfer_eth/Daily-Research-2022-05-06OS-Timezone-Trend-research
+</br> Daily Research (2022-05-06)
