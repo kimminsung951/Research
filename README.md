@@ -109,3 +109,11 @@ https://velog.io/@dappfer_eth/Daily-Research-2022-05-06OS-Timezone-Trend-researc
 2022-05-07
 https://velog.io/@dappfer_eth/Daily-Research-2022-05-07OS-Timezone-Trend-research
 </br> Daily Research (2022-05-07)
+
+2022-05-08
+https://velog.io/@dappfer_eth/Daily-Research-2022-05-08OS-Timezone-Trend-research
+</br> Daily Research (2022-05-08)
+
+2022-05-08
+https://velog.io/@dappfer_eth/Daily-Research-2022-05-09OS-Timezone-Trend-research
+</br> Daily Research (2022-05-09)
