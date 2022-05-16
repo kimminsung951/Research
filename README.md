@@ -125,3 +125,7 @@ https://velog.io/@dappfer_eth/2022-05-10OS-Timezone-Trend-research
 2022-05-11
 https://velog.io/@dappfer_eth/2022-05-11OS-Timezone-Trend-research
 </br> Daily Research (2022-05-11)
+
+2022-05-16
+NFT의 이렇다할 동향이 보이지 않음.. 프로젝트 별 세부 리서치를 작성할 필요가 있음.
+Luna 사태에 대한 글 또한 적어볼 
